@@ -5,7 +5,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow?logo=googlecolab)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A structured, hands-on learning path that takes you from statistics and probability fundamentals all the way through applied machine learning algorithms — using Python, Scikit-learn, and Google Colab.
+A structured, hands-on learning path that takes you from statistics and probability fundamentals all the way through applied machine learning algorithms, using Python, Scikit-learn, and Google Colab.
 
 ---
 
@@ -221,11 +221,11 @@ This includes resources organized by topic — probability, regression, classifi
 ## Author
 
 **Javier Bonilla**
-Senior Technical Program Manager | Python Developer | ML Practitioner
+Senior Technical Program Manager | ML Practitioner
 
 - GitHub: [@Jay06eng](https://github.com/Jay06eng)
 - LinkedIn: [linkedin.com/in/javierbonilla](https://linkedin.com/in/javierbonilla)
 
 ---
 
-*Built as part of a structured AI/ML learning program — Skillspire.*
+
