@@ -139,7 +139,7 @@ Open any Colab link from the slides or notebooks directory and run cells top to 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ml-learning-path.git
+git clone https://github.com/Jay06eng/ml-learning-path.git
 cd ml-learning-path
 
 # 2. Create a virtual environment
